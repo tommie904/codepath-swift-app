@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 - Creating connections to multiple UI instances was an interesting thing to learn.
 
-## ## App Brainstorming (Step 5)
+## App Brainstorming (Step 5)
 
 List of my favorite apps:
 - Flighty
