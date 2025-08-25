@@ -1,8 +1,8 @@
-# Prework - codepath-app
+# Prework - codepath-swift-app
 
 Submitted by: Uzo Ekume
 
-codepath-app is an app that allows you to change your background and text colors!
+codepath-swift-app is an app that allows you to change your background and text colors!
 
 Time spent: 30 minutes spent in total
 
